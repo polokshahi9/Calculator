@@ -4,13 +4,10 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-.header-text{
-    margin-left: 44%;
-    margin-top: 20px;
-    position: absolute;
-    font-size: 40px;
-   
+body{
+    background-color: rgb(217, 248, 38);
 }
+
 .best-cheracter{
     color: red;
 }
@@ -46,6 +43,6 @@
     width: 350px;
     text-align: right;
     font-weight: bold;
-    text-indent: 10px;
+   
 }
 
