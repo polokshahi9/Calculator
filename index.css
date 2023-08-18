@@ -7,11 +7,31 @@
 body{
     background-color: rgb(217, 248, 38);
 }
-
-.best-cheracter{
-    color: red;
+.headertext{
+    position: absolute;
+    margin-top: 15%;
+}
+.headertext h1{
+    font-size: 60px;
+    margin-left: 25%;
+    text-align: center;
+    
+}
+.first-chracter{
+    
+    /* color: red; */
+}
+.second-chracter{
+    
+    color: blue;
+}
+.third-chracter{
+ color: rgb(9, 132, 5);
 }
 
+.fourth-chracter{
+color: brown;
+}
 
 .container{
     width: 100%;
@@ -24,7 +44,10 @@ body{
     background: #3a4452;
     padding: 20px;
     border-radius: 10px;
+    margin-left: 39%;
+    position: fixed;
 }
+
 .calculator form input{
     border: 0;
     outline: 0;
